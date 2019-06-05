@@ -1,5 +1,7 @@
 # Git Basics
 
+This is a pratice!
+
 This practice will help you get comfortable with basic git operations: making changes and publishing them.
 
 We will learn the following git operations:
@@ -17,8 +19,8 @@ Other useful commands to see what is going on the git repository:
 
 ## Exercises
 
-- [ ] Fork this repo
-- [ ] Clone this repo
+- [x] Fork this repo
+- [x] Clone this repo
 - [ ] Update the README: add some lines to the end and push them to GitHub
 - [ ] Create a new file called `newfile.txt`, add some contents to it and push it to GitHub
 - [ ] Update newfile.txt and push the changes to GitHub
